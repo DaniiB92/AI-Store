@@ -1,0 +1,7 @@
+1. No, Cloudways also supports wordpress, drupal, and laravel along with magento.
+
+2. it supports both community and commerce.
+
+3. you can fully build a magento site with the free plan
+
+4. the pricing differentiates in that it is based upon storage and ram and hosting charges.
